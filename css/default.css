@@ -1,1 +1,58 @@
-body{color:black;margin:0px auto;width:40em}div#menu{padding:0.5ex 0px 0.5ex 0px;border-bottom:0.5ex solid black;font-size:1.3em;font-weight:bold;font-family:Sans-Serif;display:flex;width:100%;justify-content:space-between}div#logo a{color:black;text-decoration:none}div#menu #navigation a{color:black;text-decoration:none;margin-left:1em}h1{font-size:1.5em;font-family:Sans-Serif}h2{font-size:1.2em;font-family:Sans-Serif}#aboutme{display:flex;width:100%;justify-content:space-between}#myphoto{order:2;height:27ex}#publication{margin-bottom:1ex}
+body {
+    color: black;
+    margin: 0px auto;
+    width: 40em;
+}
+
+h2 {
+    font-size: 1.1em;
+    font-family: Sans-Serif;
+}
+
+div.leftright {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
+#covering {
+	order: 2;
+	width: 10em;
+}
+
+div#menu {
+	padding: 0.5ex 0px 0.5ex 0px;
+    	border-bottom: 0.5ex solid black;
+	font-size: 1.3em;
+    	font-weight: bold;
+    	font-family: Sans-Serif;
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
+div#logo a {
+	color: black;
+	text-decoration: none;
+}
+
+
+div#menu #navigation a {
+	color: black;
+	text-decoration: none;
+	margin-left: 1em;
+}
+
+h1 {
+	font-size: 1.5em;
+	font-family: Sans-Serif;
+}
+
+#myphoto {
+	order: 2;
+	height: 27ex;
+}
+
+#publication {
+	margin-bottom: 1ex;
+}
