@@ -48,6 +48,31 @@ h1 {
 	font-family: Sans-Serif;
 }
 
+h3.talks {
+    font-size: unset;
+    font-weight: unset;
+}
+
+p.talks {
+    margin-left: 3ex;
+}
+
+p {
+	margin-top: 0;
+}
+
+div.talktitle {
+    font-style: italic;
+    margin-top: 1ex;
+    margin-left: 3ex;
+    
+}
+
+#boysurface {
+	float: right;
+	height: 20ex;
+}
+
 #myphoto {
 	order: 2;
 	height: 27ex;
