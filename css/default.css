@@ -75,7 +75,11 @@ div.talktitle {
 }
 
 #bulb {
-  height: 20ex;
+  height: 15ex;
+}
+
+#matrix {
+	height: 15ex;
 }
 
 #myphoto {
