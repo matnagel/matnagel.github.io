@@ -82,10 +82,14 @@ div.talktitle {
 	height: 15ex;
 }
 
+#vectorfield {
+	height: 15ex;
+}
+
 #myphoto {
 	height: 27ex;
 }
 
-#publication {
+div.publication {
 	margin-bottom: 1ex;
 }
