@@ -9,7 +9,7 @@ h2 {
     font-family: Sans-Serif;
 }
 
-div.leftright {
+div.flex {
 	display: flex;
 	width: 100%;
 	justify-content: space-between;
@@ -88,6 +88,10 @@ div.talktitle {
 
 #myphoto {
 	height: 27ex;
+}
+
+#clasp {
+	height: 15ex;
 }
 
 div.publication {
