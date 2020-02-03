@@ -57,10 +57,6 @@ p.talks {
     margin-left: 3ex;
 }
 
-p {
-	margin-top: 0;
-}
-
 div.talktitle {
     font-style: italic;
     margin-top: 1ex;
@@ -92,6 +88,11 @@ div.talktitle {
 
 #clasp {
 	height: 15ex;
+}
+
+#braid {
+	float: right;
+	height: 40ex;
 }
 
 div.publication {
