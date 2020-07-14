@@ -15,11 +15,6 @@ div.flex {
 	justify-content: space-between;
 }
 
-#covering {
-	float: right;
-	height: 40ex;
-}
-
 div#menu {
 	padding: 0.5ex 0px 0.5ex 0px;
     	border-bottom: 0.2ex solid black;
@@ -68,31 +63,6 @@ div.talktitle {
 #boysurface {
 	float: right;
 	height: 20ex;
-}
-
-#bulb {
-  height: 15ex;
-}
-
-#matrix {
-	height: 15ex;
-}
-
-#vectorfield {
-	height: 15ex;
-}
-
-#myphoto {
-	height: 27ex;
-}
-
-#clasp {
-	width: 60ex;
-}
-
-#braid {
-	float: right;
-	height: 40ex;
 }
 
 div.publication {
